@@ -5,6 +5,8 @@ const actors=[
     "Ajith Kumar",
     "Prabhas",
     "Rajinikanth",
+    "Jr NTR",
+    "Ranbir Kapoor"
 ]
 
 
