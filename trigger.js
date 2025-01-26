@@ -5,3 +5,5 @@ function triggerMouse(){
 const legalAge=(age)=>{
     return age>=18
 }
+
+
